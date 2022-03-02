@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**vishvpatel30/vishvpatel30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **vishvpatel30/vishvpatel30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<!-- Here are some ideas to get you started: -->
+
+- 🔭 I’m currently studying in UCR
+- 🌱 I’m currently learning Artificial Intelligence
+- 👯 I’m looking to collaborate on Software Development
+- 🤔 I’m looking for help to find me Internship
+- 💬 Ask me about anything you would like
+- 📫 How to reach me: https://vishvpatel30.github.io/
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
--->
