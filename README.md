@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on Software Development
 - 🤔 I’m looking for help to find me Internship
 - 💬 Ask me about anything you would like
-- 📫 How to reach me: https://vishvpatel30.github.io/
+- 📫 How to reach me: vishvrutu@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
