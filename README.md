@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying in UCR
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Software Development
-- 🤔 I’m looking for help to find me Internship
+- 🤔 I’m looking for help to find me Job
 - 💬 Ask me about anything you would like
 - 📫 How to reach me: vishvrutu@gmail.com
 - 😄 Pronouns: He
