@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently studying in UCR
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Advanced Algorithms
 - 👯 I’m looking to collaborate on Software Development
 - 🤔 I’m looking for help to find me Job
 - 💬 Ask me about anything you would like
